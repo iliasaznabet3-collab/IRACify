@@ -1,0 +1,50 @@
+{
+  "Issue": "Centraal staat of het uitsluiten van stukken de verdedigingsrechten (art. 6 EVRM) schendt en welk toetsingskader geldt.",
+  "Rule": "De rechter past het toetsingskader toe (o.a. art. 6 EVRM) en maakt een kenbare belangenafweging die toereikend wordt gemotiveerd.",
+  "Application": "In deze zaak is beoordeeld of procesorde zwaarder weegt dan verdedigingsbelang, met weging van concrete omstandigheden.",
+  "Conclusion": "Het middel slaagt wegens ontoereikende motivering; de uitspraak wordt vernietigd/teruggewezen.",
+  "Rechtsoverwegingen": [
+    {
+      "ro_nummer": "3.1",
+      "rol": "Rule",
+      "quote": "Het toetsingskader houdt in dat de rechter een kenbare belangenafweging moet maken en die toereikend motiveert; art.",
+      "inhoud": "Het toetsingskader houdt in dat de rechter een kenbare belangenafweging moet maken en die toereikend motiveert; art. 6 EVRM is leidend.",
+      "citaten": [
+        "art. 6 EVRM"
+      ]
+    },
+    {
+      "ro_nummer": "3.3",
+      "rol": "Application",
+      "quote": "De Hoge Raad oordeelt dat het hof ontoereikend heeft gemotiveerd; de rechtsregel vergt een concrete afweging en kenbare motivering.",
+      "inhoud": "De Hoge Raad oordeelt dat het hof ontoereikend heeft gemotiveerd; de rechtsregel vergt een concrete afweging en kenbare motivering.",
+      "citaten": []
+    },
+    {
+      "ro_nummer": "3.3",
+      "rol": "Conclusion",
+      "quote": "De Hoge Raad oordeelt dat het hof ontoereikend heeft gemotiveerd; de rechtsregel vergt een concrete afweging en kenbare motivering.",
+      "inhoud": "De Hoge Raad oordeelt dat het hof ontoereikend heeft gemotiveerd; de rechtsregel vergt een concrete afweging en kenbare motivering.",
+      "citaten": []
+    },
+    {
+      "ro_nummer": "3.2",
+      "rol": "Overig",
+      "quote": "Het hof sloot de stukken uit ter bevordering van de procesorde, zonder te verduidelijken waarom dit zwaarder woog dan het verdedigingsbelang.",
+      "inhoud": "Het hof sloot de stukken uit ter bevordering van de procesorde, zonder te verduidelijken waarom dit zwaarder woog dan het verdedigingsbelang.",
+      "citaten": []
+    }
+  ],
+  "Bronnen": [
+    "ECLI:NL:HR:2023:1234"
+  ],
+  "Essentie": {
+    "Essentie": "Kern: art. 6 EVRM vereist een kenbare belangenafweging; het hof motiveerde ontoereikend, waardoor de uitspraak wordt vernietigd.",
+    "Kernpunten": [
+      "Toetsingskader: art. 6 EVRM.",
+      "Hof sloot stukken uit voor procesorde.",
+      "Belangenafweging onvoldoende gemotiveerd.",
+      "Gevolg: middel slaagt, vernietiging/terugwijzing."
+    ]
+  }
+}
