@@ -29,9 +29,5 @@
 – Duidelijke badges voor r.o.-rollen  
 – Moderne layout zonder instellingenbalk voor gebruikers  
 
-🔒 **Veilige adminmodus**  
-– Alleen zichtbaar via `?admin=SECRETTOKEN`  
-– Sidebar met model- en quizinstellingen  
 
----
 
