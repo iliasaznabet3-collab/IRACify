@@ -35,19 +35,3 @@
 
 ---
 
-## 🧠 Technologie
-
-- **Frontend:** Streamlit (Python)  
-- **Backend:** OpenAI GPT-4o-mini API  
-- **Parser:** Python + regex + JSON Schema validatie  
-- **Extractie:** `requests`, `pdfminer.six`, `trafilatura`
-
----
-
-## 🧰 Installatie (lokaal)
-
-```bash
-git clone https://github.com/<jouw-gebruikersnaam>/iracify.git
-cd iracify
-pip install -r requirements.txt
-streamlit run streamlit_app.py
